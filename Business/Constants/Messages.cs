@@ -31,5 +31,9 @@ namespace Business.Constants
         public static string UserAdded = "Kullanıcı eklendi.";
         public static string UserDeleted = "Kullanıcı kaydı silindi.";
         public static string UserUpdated = "Müşteri bilgisi güncellendi.";
+        public static string ImageAdded = "Fotoğraf Başarıyla Eklendi";
+        public static string ImageDeleted = "Fotoğraf Başarıyla Silindi";
+        public static string ImageUpdated = "Fotoğraf Başarıyla Güncellendi";
+        public static string ImageLimitExceded = "En Fazla 5 Tane Fotoğraf Yükleyebilirsiniz";
     }
 }
